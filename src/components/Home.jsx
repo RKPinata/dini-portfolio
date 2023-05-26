@@ -5,14 +5,14 @@ import { Link } from 'react-scroll'
 
 const Home = () => {
   return (
-    <div name='home' className='w-full h-screen bg-zinc-900'>
+    <div name='home' className='md:w-full md:h-screen py-10 pt-[120px] bg-zinc-900'>
       {/* Container */}
-      <div className='flex flex-col justify-center items-center w-full h-full'>
+      <div className='flex flex-col justify-center items-center md:w-full md:h-full'>
         <div className='grid md:grid-cols-2 justify-center px-10'>
           {/* Text */}
           <div className='flex flex-col justify-center md:pr-5 py-5'>
             <p className='text-zinc-50 text-4xl font-cormorant font-light'>
-            I'm <span className='text-yellow-600' >Dini Tan,</span>  a <span className='italic'>Kuala Lumpur</span> based <span className='italic'>Video Editor/Videographer</span>.
+            I'm <span className='text-yellow-600' >Dini,</span>  a <span className='italic'>Kuala Lumpur</span> based <span className='italic'>Video Editor/Videographer</span>.
             I enjoy shooting videos and meeting people of different background and races. Being in the creative field, i constantly brainstorm of new ideas and whatever that might interest our target audience. I especially have an interest in editing cinematic styles.
             </p>
           
