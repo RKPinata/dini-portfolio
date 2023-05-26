@@ -13,7 +13,7 @@ const Home = () => {
           <div className='flex flex-col justify-center md:pr-5 py-5'>
             <p className='text-zinc-50 text-4xl font-cormorant font-light'>
             I'm <span className='text-yellow-600' >Dini Tan,</span>  a <span className='italic'>Kuala Lumpur</span> based <span className='italic'>Video Editor/Videographer</span>.
-            I bla bla bla bla... insert more text
+            I enjoy shooting videos and meeting people of different background and races. Being in the creative field, i constantly brainstorm of new ideas and whatever that might interest our target audience. I especially have an interest in editing cinematic styles.
             </p>
           
             <div>
