@@ -23,7 +23,7 @@ const About = () => {
               <div className='font-cormorant text-xl'>
               A series that was originally my own idea that i have pitched to my Head of Department in EasyEat. It is made to be a mini documentary in vertical format to ease mobile scrollers. I believe that the audience should know about the history and background of restaurant owners. I planned and video shoot the flow for all the lifestories, including the interview questions, the cinematic theme, the sequencing, subtitling and all.
               </div>
-              <p className='text-yellow-500 text-2xl font-branch font-light pt-3'>Clik the links to view Reels</p>
+              <p className='text-yellow-500 text-2xl font-branch font-light pt-3'>Click the links to view Reels</p>
           </div>
           <div className=''>
             <EasyEatTesti />
